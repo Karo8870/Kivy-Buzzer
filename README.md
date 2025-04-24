@@ -15,14 +15,14 @@ Materials:
 
 ## Schematic
 
-![Schematic](image.png)
+![schematic](image.png)
 
 ## PCB
 
-![PCB](image-3.png)
+![PCB](image-1.png)
 
 # 3D view
 
-![3d](image-4.png)
+![3D](image-2.png)
 
-![3d 2](image-5.png)
+![3D back](image-3.png)
