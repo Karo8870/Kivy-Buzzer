@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BatteryHolder_Keystone_3034_1x20mm,1,Battery_Cell,
+BZ1,PUIAudio_SMT_0825_S_4_R,1,Buzzer,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,R,
+SW1,SW_PUSH_6mm,1,SW_Push,
